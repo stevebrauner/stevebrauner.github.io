@@ -7,8 +7,10 @@
   </head>
   <body>
 	<header>
-	  <h1>{{ page.headline }}</h1>
-	  {% include navigation.html %}
+	  <div class="header-container">
+	    <h1>{{ page.headline }}</h1>
+	    {% include navigation.html %}
+	  </div>
 	</header>
 	<div class="container">
 	  {{ content }}
