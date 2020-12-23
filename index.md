@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Home
+headline: Steve Brauner, Developer
 ---
-# Hello World!
-Welcome to my web server.
+Welcome
