@@ -2,15 +2,19 @@ body {
 	background: #222b34 url("/assests/images/lake_travis.jpg") no-repeat top-left;
 }
 
-.header-container {
-	background-color: #222b34;
+header {
 	text-align: center;
+	color: #98a89d;
+}
+
+article {
+	width: 75%
+}
+
+footer {
+	font-size: 0.5rem;
 }
 
 .current {
 	color: #445668;
-}
-
-nav {
-	color: #98a89d;
 }

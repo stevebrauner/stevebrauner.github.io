@@ -7,14 +7,12 @@
   </head>
   <body>
 	<header>
-	  <div class="header-container">
-	    <h1>{{ page.headline }}</h1>
-	    {% include navigation.html %}
-	  </div>
+	  <h1>{{ page.headline }}</h1>
+	  {% include navigation.html %}
 	</header>
-	<div class="container">
+	<article>
 	  {{ content }}
-	</div>
+	</article>
 	<footer>
 	  <p>footer information</p>
 	</footer>
