@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Home
-headline: Steve Brauner, Developer
+layout: single
+author_profile: true
 ---
-Welcome
+
+# Home page
+
+Some text here
