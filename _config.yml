@@ -12,15 +12,15 @@
 
 # theme                    : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "air" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My GitHub Page"
+title                    : "Steve Brauner"
 title_separator          : "-"
-subtitle                 : "My presence in the world." # site tagline that appears below site title in masthead
+subtitle                 : "Developer" # site tagline that appears below site title in masthead
 name                     : "Steve Brauner"
-description              : "My amazing website."
+description              : "Developer profile"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "stevebrauner/stevebrauner.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -31,28 +31,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 200
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : "pathname" # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -106,51 +87,23 @@ analytics:
 author:
   name             : "Steve Brauner"
   avatar           : "/assets/images/steve_profile.jpg"
-  bio              : "I am a self-taught Python programmer."
+  bio              : "Python, Django, Plotly, PySide6<br><br>Learning Java<br><br>Have used HTML5, CSS, JavaScript, Git, GitHub, Poetry, Heroku, PythonAnyWhere"
   location         : "Austin, TX"
-  email            :
+  email            : "sbrauner.dev@icloud.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stevebrauner"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/stevenbrauner"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: stevebrauner
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
@@ -276,6 +229,9 @@ compress_html:
   ignore:
     envs: development
 
+# Atom-Feed
+atom_feed:
+  hide: true
 
 # Defaults
 defaults:
@@ -290,6 +246,9 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        overlay_image: /assets/images/header.jpg
+        overlay_filter: rgba(85, 85, 85, 0.5)
   # _pages
   - scope:
       path: ""
@@ -297,15 +256,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_image: /assets/images/header.jpg
+        overlay_filter: rgba(85, 85, 85, 0.5)
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: false
-      share: true
-
+      author_profile: true
+      share: false
+      header:
+        overlay_image: /assets/images/header.jpg
+        overlay_filter: rgba(85, 85, 85, 0.5)
 # Collections
 collections:
   portfolio:
