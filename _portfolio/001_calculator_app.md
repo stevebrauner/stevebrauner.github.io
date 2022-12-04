@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Calculator"
+title: "001 Calculator App"
 excerpt: "A simple rpn style calculator"
 classes: wide
 header:
@@ -15,15 +15,16 @@ feature_row:
 
 {% include feature_row %}
 
+- Created as RPN calculator because it is used more in math/science fields and is more complex to execute.
 - Uses a Model View Controller design pattern.
 - View is a PySide6 GUI.
 - The calculator buttons operate via mouse clicks.
 
-As an RPN style calculator you 
-1. enter a number (use +/- button to change sign).
-2. add it to the stack with the RET button (Return).
-3. enter second number.
-4. press the operator key (+, -, /, or *).
-5. result is placed on the stack and displayed.
+## Coding reflections
 
-<p>See source code at the repo on <a href="https://github.com/stevebrauner/calculator">GitHub</a>.</p>
+- The layout of the GUI required some tweaking to get it to align properly.
+- Implementing a MVC design required splitting the logic functions into a model and considering edge cases like divide by zero, operating on an empty stack, etc.
+- The controller needed to convert inputs into an updated view and passing the actions to the model for updates.
+
+## Source Code
+See source code at the repo on <a href="https://github.com/stevebrauner/calculator">GitHub</a>.

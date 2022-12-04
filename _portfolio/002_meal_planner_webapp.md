@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Meal Planner"
-excerpt: "A django based webapp."
+title: "002 Meal Planner Webapp"
+excerpt: "A Django based webapp."
 classes: wide
 header:
   teaser: /assets/images/mp_index.png
@@ -50,8 +50,18 @@ The database will need to track plans by owner (user).
 
 Each plan will have breakfast, lunch, dinner, and other meals.
 
-Each meal will have a title and optional description.
+Each meal will have a title/description.
 
+## Coding Reflections
 
-<p>View code in the repo on <a href="https://github.com/stevebrauner/meal_planner">GitHub</a>.</p>
-<p>View <a href="https://stevebrauner.pythonanywhere.com">demo here</a>.</p>
+- Used previous knowledge of coding a Django app to create this meal planner.
+- Created a Project Specification to plan the project and keep on track with coding the various features.
+- Provided users the ability to create and delete their user accounts.
+- Used BootStrap 5 to create consistant look and feel.
+- Added JQuery functioning for date pickers.
+
+## Source Code and Demo
+
+View code in the repo on <a href="https://github.com/stevebrauner/meal_planner">GitHub</a>.
+
+View <a href="https://stevebrauner.pythonanywhere.com">demo here</a>.

@@ -6,25 +6,26 @@ permalink: /
 classes: wide
 ---
 
-I was first introduced to computer programming in high school in Salem, Oregon. I started programming on a mini-frame unix based computer at my school in the early 1980's.
+I love coding (currently Python; also learning Java) and want to offer my abilities and passion to a tech company doing meaningful work. I am a quick learner, work well in teams, experienced public speaker, and want to change my little part of the world to make it all it can be.
 
-My first programming language was machine language, learning to manipulate registers, and file writes at that basic level. Machine language was challenging in seeing in the 1 and 0's what operations were being made.
+I was first introduced to computer programming in high school. My first programming language was machine language. Next I upgraded to assembly language, which offered slightly more capabilities than machine language. I ended my high school years learning basic.
 
-Next we upgraded to assembly language. The three-letter commands were easier to understand and offered slightly more capabilities than machine language.
+These first years sparked my interest in computers and technology and spurred me to begin studies in electrical engineering studies. In these university years I learned Fortran and improved my math, physics, and engineering skills.
 
-I ended my high school years learning basic (yes, that primitive language). In comparison to machine or assembly language it was a pleasure to code in a language that read like English.
+At this point I felt a call to ministry and have been in that career path for over 20 years now. I grew in values, integrity, communication skills (including public speaking), and leadership.
 
-These first years sparked my interest in computers and technology and spurred me to consider going into electrical engineering studies in my university years. In these first years I learned Fortran and improved my math, physics, and engineering skills.
+During these years I still had interest in computers and technology. I would purchase used personal computers and run Linux to make file, print, and email servers, and turning one into a wireless router.
 
-At this point I felt a call to ministry and have been in that career path for over 20 years now. During this time I have grown in values, integrity, communication skills (including public speaking), and leadership.
+Recently I have retired from ministry and again have returned to my love of computers and coding. I'm self-taught in Python, including Django, Pyside6, Pytest, Click, Plotly, and other libraries.
 
-During these many years I still had interest in computers and technology. I would purchase used personal computers and run linux to make, file, print, and email servers, even turning one into a wireless router. Later, I extended Emacs by learning and programming it in Lisp.
+I am expanding the breadth of my learning with design patterns, algorithms, clean coding, pragmatic programming, and other topics. Also, I am familiar with HTML5, CSS, and JavaScript. I'm currently learning Java.
 
-Recently I have retired from ministry and again have returned to my love of computers. I'm self-taught in Python. I have used Django, PySide6, Pytest, Click, Plotly, and other libraries to write for fun, and the projects on my portfolio.
-
-Expanding the breadth of my learning, I studied design patterns, algorithms, clean coding, pragmatic programming, and other topics.
-
-Also, I am familiar with HTML5, CSS, and Javascript. I'm currently learning Java to expand my abilities.
+Skills:
+* Python, Django, PySide6, Pytest, Click, Plotly, Git
+* Life-long love of coding/computers/technology
+* Love of learning
+* Team player
+* Excellent communication and public speaking skills
 
 You may view my [portfolio](/portfolio/) to see my work.
 

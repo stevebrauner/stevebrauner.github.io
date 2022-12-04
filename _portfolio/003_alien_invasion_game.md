@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Alien Invasion Game"
+title: " 003 Alien Invasion Game"
 classes: wide
 excerpt: "A pygame based game inspired by Space Invaders."
 header:
@@ -20,11 +20,12 @@ feature_row:
 
 This game is based upon the Space Invader arcade game.
 
-## History of Development
+## Coding Reflections
 
-I coded this game following the chapters from *Python Crash Course,
+- Originally coded this game following the chapters from *Python Crash Course,
 2nd Edition* by Eric Matthes.
+- Refactored it to implement a Model, View, Controller design pattern.
+- Refactoring proved complicated due to the mixing of model, view, and controller logic in the original implementation.
 
-I then refactored it to implement a Model, View, Controller design pattern.
-
-<p>See source code at the repo on <a href="https://github.com/stevebrauner/alien_invasion">GitHub</a>.</p>
+## Source Code
+See source code at the repo on <a href="https://github.com/stevebrauner/alien_invasion">GitHub</a>.
