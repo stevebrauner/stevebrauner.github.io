@@ -6,7 +6,7 @@ permalink: /
 classes: wide
 ---
 
-I love coding (currently Python; also learning Java) and want to offer my abilities and passion to a tech company doing meaningful work. I am a quick learner, work well in teams, experienced public speaker, and want to change my little part of the world to make it all it can be.
+I love coding (currently Python; also learning Java) and want to offer my abilities and passion to a tech company doing meaningful work. I am a quick learner, work well in teams, am an experienced public speaker, and want to change my little part of the world to make it all it can be.
 
 I was first introduced to computer programming in high school. My first programming language was machine language. Next I upgraded to assembly language, which offered slightly more capabilities than machine language. I ended my high school years learning basic.
 
