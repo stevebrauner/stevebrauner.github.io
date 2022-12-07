@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Hello, I'm Steve Brauner"
-excerpt: "Let me introduce myself"
+excerpt: "Python Developer | Studying Java | Familiar with HTML5, CSS, and JavaScript"
 permalink: /
 classes: wide
 ---
