@@ -57,7 +57,7 @@ Each meal will have a title/description.
 - Used previous knowledge of coding a Django app to create this meal planner.
 - Created a Project Specification to plan the project and keep on track with coding the various features.
 - Provided users the ability to create and delete their user accounts.
-- Used BootStrap 5 to create consistant look and feel.
+- Used BootStrap 5 to create consistent look and feel.
 - Added JQuery functioning for date pickers.
 
 ## Source Code and Demo
