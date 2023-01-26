@@ -6,7 +6,7 @@ permalink: /
 classes: wide
 ---
 
-I want to use my abilities and passion to a tech company doing meaningful work to help them change the world and serve their customers/users. I am a quick learner, work well in teams, and want to change my little part of the world to make it all it can be.
+I want to use my abilities and passion in a tech company doing meaningful work to help them change the world and serve their customers/users. I am a quick learner, work well in teams, and want to change my little part of the world to make it all it can be.
 
 My first introduction to computer programming was in high school (learned Machine Language, Assembly Language, and Basic). These first years sparked my interest in computers and technology and spurred me to begin studies in electrical engineering (learned Fortran). These university years improved my math and engineering skills.
 
