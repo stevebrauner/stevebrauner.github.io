@@ -61,7 +61,7 @@ It has methods for calculations -- for adding (add), for subtracting (subtract),
 
 Finally, a method that pushes a number on to the stack and returns the number helps with the calculation methods.
 
-{% gist c0d667814203a330c66447dbf40ddeec model.py %}
+{% gist 38180a642e7cdf0de97ba49803e9a58c model.py %}
 
 ### The View
 
@@ -74,7 +74,7 @@ It uses methods for the elements of the layout:
 - layout_entry creates the label for the entry display.
 - layout_stack creates the label for the multiline stack display.
 
-{% gist c0d667814203a330c66447dbf40ddeec view.py %}
+{% gist b3ac3860abad61c04453cd493219a723 view.py %}
 
 ### The Controller
 
@@ -84,7 +84,7 @@ The controller uses an entry string (_entry) to hold the number being entered (v
 
 Each button in the view ("9-0", ".", "POP", "DRP", "C", "AC", "SWP", "+/-", "/", "*", "-", "+", "RET") is connected with a method that updates the view and/or the model with the action requested. The entry and stack areas are updated as needed after each button press.
 
-{% gist c0d667814203a330c66447dbf40ddeec controller.py %}
+{% gist c46a7488c2cde4b50bb70654f96ad497 controller.py %}
 
 ### The App
 
