@@ -15,16 +15,11 @@ An RPN calculator uses Reverse Polish Notation for entering calculations.
 
 According to Wikipedia, <a href="https://en.wikipedia.org/wiki/Reverse_Polish_notation">Reverse Polish Notation (RPN)</a> is
 
-<blockquote>
-a mathematical notation in which
-operators follow their operands
-</blockquote>
+<blockquote>a mathematical notation in which operators follow their operands</blockquote>
 
 For example, to calculate "3 + 4" you would type
 
-<blockquote>
-3 &lt;enter&gt; 4 +
-</blockquote>
+<blockquote>3 &lt;enter&gt; 4 +</blockquote>
 
 The calculator employs a stack to store numbers and the results of calculations for use later. In the above example the user presses the number 3. When the <enter> button is pressed the 3 is pushed onto the stack. Next the 4 is pressed followed by the + button. The calculator adds the 4 with the number on the top of the stack (in this case the 3, which it popped off the stack) and displays the answer (7) and pushes that on the stack (so at the end only the 7 is on the stack).
 
