@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "001 Calculator App"
+title: "Calculator App"
 excerpt: "A simple rpn style calculator"
 classes: wide
 header:

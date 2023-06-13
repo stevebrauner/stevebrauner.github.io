@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "004 Earthquake Plotting CLI"
+title: "Earthquake Plotting CLI"
 excerpt: "An earthquake plotting CLI app."
 classes: wide
 header:

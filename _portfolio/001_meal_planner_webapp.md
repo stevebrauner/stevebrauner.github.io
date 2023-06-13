@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "002 Meal Planner Webapp"
+title: "Meal Planner Webapp"
 excerpt: "A Django based webapp."
 classes: wide
 header:

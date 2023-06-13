@@ -1,6 +1,6 @@
 ---
 layout: single
-title: " 003 Alien Invasion Game"
+title: "Alien Invasion Game"
 classes: wide
 excerpt: "A pygame based game inspired by Space Invaders."
 header:
