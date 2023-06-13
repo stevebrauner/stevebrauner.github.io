@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Steve Brauner"
   avatar           : "/assets/images/steve_profile.jpg"
-  bio              : "Python, Django<br><br>Learning Java<br><br>Have used HTML5, CSS, JavaScript"
-  location         : "Houston, TX (moving to Georgia)"
+  bio              : "Python, Django"
+  location         : "Cypress, TX (Houston area)"
   email            : "sbrauner.dev@icloud.com"
   links:
     - label: "GitHub"
