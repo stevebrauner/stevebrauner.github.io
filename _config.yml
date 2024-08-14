@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Steve Brauner"
   avatar           : "/assets/images/steve_profile.jpg"
-  bio              : "Pastor to Developer -- Python | Django"
-  location         : "Cypress, TX (Houston area)"
+  bio              : "Pastor to Developer\n(Python & Django)"
+  location         : "Cypress, TX\n(Houston area)"
   email            : "sbrauner.dev@icloud.com"
   links:
     - label: "GitHub"
