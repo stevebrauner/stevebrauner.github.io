@@ -8,7 +8,7 @@ classes: wide
 
 I want to use my Python/Django coding skills in a tech company doing meaningful work through serving their customers/users.
 
-## Pastor to Developer (Python & Django)\nContact me (see sidebar) for any opportuniities
+## Pastor to Developer (Python & Django) -- See Sidebar to Contact Me
 
 Recently, I retired from ministry and again have returned to my love of computers and coding. I'm self-taught in Python, and Django. I am expanding the breadth of my learning with design patterns, algorithms, and other topics. I am also familiar with HTML5, CSS, and JavaScript. I am constantly growing my coding skills (e.g., beginning to learn Java and C++).
 
