@@ -15,7 +15,7 @@ feature_row:
 
 {% include feature_row %}
 
-This is a Django based website focused on blogging. Its expandable to include a membership site, products, etc.
+This is a Django based website focused on blogging. It's expandable to include a membership site, products, etc.
 
 ## Welcome to Witness to Wisdom
 
