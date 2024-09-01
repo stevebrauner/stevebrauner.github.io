@@ -63,5 +63,3 @@ Each meal will have a title/description.
 ## Source Code and Demo
 
 View code in the repo on <a href="https://github.com/stevebrauner/meal_planner">GitHub</a>.
-
-View <a href="https://stevebrauner.pythonanywhere.com">demo here</a>.
