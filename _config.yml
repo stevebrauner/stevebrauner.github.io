@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "default","air", "aqua", "contrast", "dark",
 locale                   : "en-US"
 title                    : "Steve Brauner"
 title_separator          : "-"
-subtitle                 : "Pastor to Developer" # site tagline that appears below site title in masthead
+subtitle                 : "Pastor to Cybersecurity Analyst" # site tagline that appears below site title in masthead
 name                     : "Steve Brauner"
-description              : "Developer Profile"
+description              : "Cybersecurity Profile"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "stevebrauner/stevebrauner.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   utterances:
     theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : "pathname" # "pathname" (default)
@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Steve Brauner"
   avatar           : "/assets/images/steve_profile.jpg"
-  bio              : "Pastor to Developer\n(Python & Django)"
+  bio              : "Pastor to Cybersecurity Analyst"
   location         : "Houston, TX area"
-  email            : "sbrauner.dev@icloud.com"
+  email            : "steve.brauner@icloud.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

@@ -1,26 +1,35 @@
 ---
 layout: single
 title: "Hello, I'm Steve Brauner"
-excerpt: "Pastor to Developer (Python & Django)"
+excerpt: "Pastor to Cybersecurity Analyst"
 permalink: /
 classes: wide
 ---
 
 I want to use my Python/Django coding skills in a tech company doing meaningful work through serving their customers/users.
 
-## Pastor to Developer (Python & Django) -- See Sidebar to Contact Me
+## Pastor to Cybersecurity Analyst -- See Sidebar to Contact Me
 
-Recently, I retired from ministry and again have returned to my love of computers and coding. I'm self-taught in Python, and Django. I am expanding the breadth of my learning with design patterns, algorithms, and other topics. I am also familiar with HTML5, CSS, and JavaScript. I am constantly growing my coding skills (e.g., beginning to learn Java and C++).
+### SUMMARY STATEMENT
 
-My life experiences have taught me many useful skills. At university I began studies in electrical engineering, which improved my math and engineering skills. During my years in ministry, I grew in values, integrity, communication skills, and leadership. I am a quick learner, work well in teams, and want to bring abundance to the world.
+I am a Security Analyst who recently completed the Google Cybersecurity Certificate, a rigorous, skills-based program that covers key cybersecurity knowledge and skills. I have 10 years of experience with conflict resolution, working on teams with cultural differences, and serving the community in my former career. My greatest strengths are my security and growth mindsets, and I have a talent for written and verbal communication. I am passionate about making the digital world safe and secure, and I value honesty, integrity, working with others, and making a difference.
 
-Skills:
+### SKILLS
 
+- Threats, risks, and vulnerabilities
+- Incident response
+- Security frameworks and controls
+- Security Hardening
+- Linux command line
+- SQL
+- SIEM tools
 - Python
-- Django
-- Git & GitHub
-- Excellent communication skills
+- Detail oriented
+- Written and verbal communication skills
+- Conflict resolution
 
 You may view my [portfolio](/portfolio/) to see my work.
+
+You may view my LinkedIn profile to see my experience (see sidebar).
 
 Please contact me (see sidebar) for any opportunities.

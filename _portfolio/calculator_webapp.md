@@ -3,8 +3,6 @@ layout: single
 title: "Calculator App"
 excerpt: "A simple rpn style calculator"
 classes: wide
-header:
-  teaser: /assets/images/calculator.png
 feature_row:
   - image_path: /assets/images/calculator.png
     alt: "calculator app"
@@ -27,4 +25,5 @@ feature_row:
 - The controller needed to convert inputs into an updated view and passing the actions to the model for updates.
 
 ## Source Code
+
 See source code at the repo on <a href="https://github.com/stevebrauner/calculator">GitHub</a>.
