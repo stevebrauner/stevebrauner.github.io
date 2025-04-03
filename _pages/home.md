@@ -6,8 +6,6 @@ permalink: /
 classes: wide
 ---
 
-I want to use my Python/Django coding skills in a tech company doing meaningful work through serving their customers/users.
-
 ## Pastor to Cybersecurity Analyst -- See Sidebar to Contact Me
 
 ### SUMMARY STATEMENT
