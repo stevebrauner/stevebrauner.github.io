@@ -1,33 +1,38 @@
 ---
 layout: single
 title: "Hello, I'm Steve Brauner"
-excerpt: "Pastor to Cybersecurity Analyst"
+excerpt: "Freelance Python Developer"
 permalink: /
 classes: wide
 ---
 
-## Pastor to Cybersecurity Analyst -- See Sidebar to Contact Me
+## Freelance Python Developer -- See Sidebar to Contact Me
 
 ### SUMMARY STATEMENT
 
-I am a Security Analyst who recently completed the Google Cybersecurity Certificate, a rigorous, skills-based program that covers key cybersecurity knowledge and skills. I have 10 years of experience with conflict resolution, working on teams with cultural differences, and serving the community in my former career. My greatest strengths are my security and growth mindsets, and I have a talent for written and verbal communication. I am passionate about making the digital world safe and secure, and I value honesty, integrity, working with others, and making a difference.
+I am a Self-Taught Python Developer who is now doing freelance coding, while continuing to seek full-time opportunities.
+
+I also recently completed the Google Cybersecurity Certificate, a rigorous, skills-based program that covered key cybersecurity knowledge and skills that prepared me to code more securely.
+
+I have 10 years of experience with conflict resolution, working on teams with cultural differences, and serving the community in my former career.
+
+I have a talent for written and verbal communication. I value honesty, integrity, working with others, and making a difference through code.
 
 ### SKILLS
 
-- Threats, risks, and vulnerabilities
-- Incident response
-- Security frameworks and controls
-- Security Hardening
-- Linux command line
-- SQL
-- SIEM tools
 - Python
-- Detail oriented
-- Written and verbal communication skills
-- Conflict resolution
+- Django Framework
+- Bootstrap
+- Docker Containers
+- Data Structures and Algorithms
+- Design Patterns
+- SQL
+- Amazon Web Services -- RDS, S3, API Gateway, Cloudfront, Lambda, Route 53, and IAM
+- Critical Thinking
+- Communication Skills
+- Creativity
+- Time Management
 
 You may view my [portfolio](/portfolio/) to see my work.
-
-You may view my LinkedIn profile to see my experience (see sidebar).
 
 Please contact me (see sidebar) for any opportunities.

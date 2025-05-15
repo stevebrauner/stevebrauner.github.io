@@ -3,6 +3,8 @@ layout: single
 title: "Calculator App"
 excerpt: "A simple rpn style calculator"
 classes: wide
+header:
+  teaser: /assets/images/calculator.png
 feature_row:
   - image_path: /assets/images/calculator.png
     alt: "calculator app"
@@ -12,6 +14,10 @@ feature_row:
 # Calculator: A simple rpn style calculator app
 
 {% include feature_row %}
+
+In this project I wanted to create a calculator app that used a Model View Controller design pattern. I also wanted the calculator to use RPN notation because it is used more in math/science fields and is more complex to execute.
+
+## Design Concepts
 
 - Created as RPN calculator because it is used more in math/science fields and is more complex to execute.
 - Uses a Model View Controller design pattern.
